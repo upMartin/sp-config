@@ -1,6 +1,7 @@
 spring:
   application:
     name: item-service
+
   rabbitmq:
         host: 192.168.52.134
         port: 5672
